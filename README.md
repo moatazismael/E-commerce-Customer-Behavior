@@ -20,10 +20,10 @@ Data was cleaned and structured in Excel before visualization.
 
 The dashboard includes the following insights:
 
-- 🌍 **Number of countries** where products are sold
-- 📅 **Monthly Sales Trend**
-- 🧑‍💼 **Sales by Contact Person**
-- 🗺️ **Sales by Country**
+- 🌍 **Number of countries** where products are sold  
+- 📅 **Monthly Sales Trend**  
+- 🧑‍💼 **Sales by Contact Person**  
+- 🗺️ **Sales by Country**  
 - 📌 **KPIs** including:
   - Total Sales
   - Number of Orders
@@ -36,33 +36,37 @@ All visuals are interactive and support filtering for deeper insights.
 
 ## 🛠 Tools Used
 
-- **Excel**: Data cleaning and initial processing
-- **Power BI**: Data modeling and visualization
+- **Excel**: Data cleaning and initial processing  
+- **Power BI**: Data modeling and visualization  
+- **Python**: Additional analysis using `pandas`, `numpy`, and `matplotlib` in a Jupyter Notebook  
 
 ---
 
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](preview.png)  
+*Note: Replace this image with a screenshot of your dashboard.*
 
 ---
 
 ## 🧠 Key Learnings
 
-- Practice with real-life e-commerce data
+- Practice with real-life e-commerce data  
 - Hands-on Power BI skills including:
   - Slicers and filters
   - Data transformations in Power Query
   - KPIs and DAX formulas
-  - Map and card visualizations
+  - Map and card visualizations  
+- Enhanced data analysis skills using Python libraries for EDA and visualization  
 
 ---
 
 ## 📂 How to Use
 
-1. Clone this repository
-2. Open the `.pbix` file using Power BI Desktop
-3. Interact with the dashboard freely
+1. Clone this repository  
+2. Open the `.pbix` file using Power BI Desktop  
+3. Explore the notebook (`notebook.ipynb`) in Jupyter for additional Python analysis  
+4. Interact with the dashboard freely  
 
 ---
 
