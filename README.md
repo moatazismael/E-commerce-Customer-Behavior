@@ -69,7 +69,7 @@ All visuals are interactive and support filtering for deeper insights.
 ## ✅ Author
 
 **Moatazbellah Emad Ismael**  
-Find me on [LinkedIn](https://www.linkedin.com/in/moatazismael)
+Find me on [LinkedIn](https://www.linkedin.com/in/moataz-ismael/)
 
 ---
 
